@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最多的奖励", "最多的奖励.vcxproj", "{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Debug|x64.ActiveCfg = Debug|x64
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Debug|x64.Build.0 = Debug|x64
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Debug|x86.Build.0 = Debug|Win32
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Release|x64.ActiveCfg = Release|x64
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Release|x64.Build.0 = Release|x64
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Release|x86.ActiveCfg = Release|Win32
+		{EAB17E29-18FB-434E-BCE4-F1E98DBD30A6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAAC318-6ADE-49D7-819D-7C1D0A8D3F5B}
+	EndGlobalSection
+EndGlobal

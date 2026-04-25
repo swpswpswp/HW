@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\my dongxi\我的学习\程序\最多的奖励\main.cpp(30,18): error C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my dongxi\我的学习\程序\最多的奖励\main.cpp(32,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my dongxi\我的学习\程序\最多的奖励\main.cpp(58,21): error C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my dongxi\我的学习\程序\最多的奖励\main.cpp(59,33): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my dongxi\我的学习\程序\最多的奖励\main.cpp(75,28): error C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my dongxi\我的学习\程序\最多的奖励\main.cpp(76,35): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
