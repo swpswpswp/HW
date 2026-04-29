@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "10\\x64\\Debug\\ArrayManager.obj",
+            "outputs": [
+                "10\\x64\\Debug\\ArrayManager.h_FFA07D76840CCD52.ifc.dt.module.json",
+                "10\\x64\\Debug\\ArrayManager.h_FFA07D76840CCD52.ifc.dt.d.json",
+                "10\\x64\\Debug\\ArrayManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\my dongxi\\我的学习\\程序\\10\\ArrayManager.h",
+                    "source-path": "d:\\my dongxi\\我的学习\\程序\\10\\arraymanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
