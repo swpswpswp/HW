@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Serializable Object System.vcxproj" Id="af961a0e-bcbe-4a1e-899e-06d26c01aa2f" />
+</Solution>
